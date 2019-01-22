@@ -5,5 +5,5 @@ import {Component} from '@angular/core';
     template: '<h1>{{ title }}</h1>'
 })
 export class AppComponent {
-    title = 'Hello World';
+    title = 'Hello World Angular';
 }
